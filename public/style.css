@@ -1,0 +1,86 @@
+.navbar{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(121, 70, 197);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+.tag-heading{
+   text-align: center;
+   padding: 0px 20px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: oblique;
+   font-variant: inherit;
+   font-feature-settings: "abvf";
+   color: aliceblue;
+}
+.good-fox{
+    justify-content: center;
+}
+form {
+    position: relative;
+    width: 480px;
+    margin: 30px auto 20px auto;
+    background: #fff;
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 0 1px 5px rgb(121, 114, 114);
+  }
+  form input,
+  form textarea {
+    width: 100%;
+    border: none;
+    padding: 4px;
+    outline: none;
+    font-size: 1.2em;
+    font-family: inherit;
+    resize: none;
+  }
+  form button {
+    position: absolute;
+    right: 18px;
+    bottom: -18px;
+    background: rgb(136, 88, 188);
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    outline: none;
+  }
+.notesto{
+        background: #fff;
+        border-radius: 7px;
+        box-shadow: 0 2px 5px #ccc;
+        padding: 10px;
+        width: 240px;
+        margin: 16px;
+        float: left;
+      }
+    
+    .notesto h1 {
+      font-size: 1.1em;
+      margin-bottom: 6px;
+    }
+    .notesto p {
+      font-size: 1.1em;
+      margin-bottom: 10px;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+    
+    .notesto button {
+      position: relative;
+      float: right;
+      margin-right: 10px;
+      color: #f5ba13;
+      border: none;
+      width: 36px;
+      height: 36px;
+      cursor: pointer;
+      outline: none;
+    }
+  
+  
